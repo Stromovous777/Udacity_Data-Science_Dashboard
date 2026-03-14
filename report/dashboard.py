@@ -252,7 +252,6 @@ class Report(CombinedComponent):
 
 ###########################
 # Initialize a fasthtml app 
-from fasthtml.common import *
 app = FastHTML()
 
 # Initialize the `Report` class
